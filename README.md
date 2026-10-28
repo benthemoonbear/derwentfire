@@ -19,7 +19,7 @@ Static website for [Derwent Fire Compliance](https://www.derwentfirecompliance.c
 - `fonts/` – self-hosted Inter subsets (SIL Open Font License)
 - `images/` – photo slots; see `images/README.txt` for the file names. A slot stays hidden until its photo is added.
 - `logo/` – logo files (SVG) for light and dark backgrounds
-- `badges/` – IOSH, IFSM and NFRAR accreditation badges (PNG + WebP), shown unaltered as supplied
+- `badges/` – IOSH, IFSM (Member and Tier 2 CFRAR) and NFRAR accreditation badges (PNG + WebP), shown unaltered as supplied
 - `og-image.jpg` – image shown when the site is shared on social media
 - `favicon.*`, `apple-touch-icon.png`, `icon-*.png`, `site.webmanifest` – browser and phone icons
 - `robots.txt`, `sitemap.xml` – for search engines
